@@ -72,14 +72,6 @@ Example model repo: `subhiksha-kodi/bert-fake-news-model`
 streamlit run app.py
 ```
 
-This will start a local Streamlit server and display a URL like:
-
-```
-Local URL: http://localhost:8501
-```
-
-Open it in your browser to test the Fake News Detector.
-
 ---
 
 ## 📚 Model Info
