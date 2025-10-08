@@ -10,10 +10,10 @@ Built with **Streamlit**, this app provides an elegant interface with instant pr
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](home_page.png)
 
 ### Prediction Result
-![Prediction Result](screenshots/prediction_result.png)
+![Prediction Result](prediction_result.png)
 
 ---
 
