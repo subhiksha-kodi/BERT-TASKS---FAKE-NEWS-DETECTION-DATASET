@@ -87,7 +87,7 @@ Open it in your browser to test the Fake News Detector.
 - **Base Model:** bert-base-uncased  
 - **Fine-tuned on:** Fake News Detection Dataset (balanced real/fake samples)  
 - **Framework:** Hugging Face Transformers + PyTorch  
-- **Accuracy:** ~100% on validation set (after 1 epoch)  
+- **Accuracy:** ~99.98 % on validation set (after 1 epoch)  
 
 ---
 
